@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactportfolio2.0/static/css/main.8eb7b0eb.css",
+    "main.js": "/Reactportfolio2.0/static/js/main.eada1c73.js",
+    "static/js/787.12df3f02.chunk.js": "/Reactportfolio2.0/static/js/787.12df3f02.chunk.js",
+    "static/media/HW5.PNG": "/Reactportfolio2.0/static/media/HW5.f6475dfb74a570fb0291.PNG",
+    "static/media/WASS.PNG": "/Reactportfolio2.0/static/media/WASS.dbb7d1a87e3e013ea94a.PNG",
+    "static/media/SMQG.PNG": "/Reactportfolio2.0/static/media/SMQG.a7740bcb1d48ad9694ad.PNG",
+    "static/media/match.png": "/Reactportfolio2.0/static/media/match.8d53471d3bb7f04ea16a.png",
+    "static/media/Ash.jpg": "/Reactportfolio2.0/static/media/Ash.9d881570186b31471aee.jpg",
+    "static/media/Sailor moon (2).jpg": "/Reactportfolio2.0/static/media/Sailor moon (2).8635cb9c6ea9fcd9771c.jpg",
+    "static/media/Sailor Moon.jpg": "/Reactportfolio2.0/static/media/Sailor Moon.e530f6f923ae7e1d3d81.jpg",
+    "static/media/AshleysResume.pdf": "/Reactportfolio2.0/static/media/AshleysResume.05a1cfe924cb22d6c57b.pdf",
+    "static/media/Eeveelutions.jpg": "/Reactportfolio2.0/static/media/Eeveelutions.b694439746544c60302f.jpg",
+    "static/media/MyTeam.PNG": "/Reactportfolio2.0/static/media/MyTeam.419616e9a91b09c40db4.PNG",
+    "index.html": "/Reactportfolio2.0/index.html",
+    "main.8eb7b0eb.css.map": "/Reactportfolio2.0/static/css/main.8eb7b0eb.css.map",
+    "main.eada1c73.js.map": "/Reactportfolio2.0/static/js/main.eada1c73.js.map",
+    "787.12df3f02.chunk.js.map": "/Reactportfolio2.0/static/js/787.12df3f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb7b0eb.css",
+    "static/js/main.eada1c73.js"
+  ]
+}
